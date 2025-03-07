@@ -42,7 +42,7 @@ Aspiring Fullstack Developer | Passionate about Java, TypeScript, and Modern Web
 ---
 
 ### 📌 Featured Projects  
-#### 🔗 [ShortLink Generator](REPO_LINK)
+#### 🔗 [ShortLink Generator]https://github.com/GoogleExpert228/short_url
 A **URL shortener** built with **Spring Boot & React**.
 
 #### 📌 [Freelancer CRM](REPO_LINK)
