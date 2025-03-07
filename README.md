@@ -6,7 +6,7 @@ Aspiring Fullstack Developer | Passionate about Java, TypeScript, and Modern Web
 
 ---
 
-### 🚀 About Me
+###   About Me:
 - 🎓 **Software & Information Technologies** student at **Technical University of Varna**  
 - 🌍 Spent a semester in **Spain** through the **Erasmus+** program  
 - 💡 Constantly learning and improving my skills in **Spring Boot, React, and Tailwind CSS**  
