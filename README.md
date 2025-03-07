@@ -52,13 +52,10 @@ A **mini CRM system** for freelancers to manage clients and orders.
 
 ### 📫 Get in Touch  
 <p align="left">
-  <a href="YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/danil-baranov-b18077264/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:danil.engels28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
