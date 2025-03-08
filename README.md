@@ -44,6 +44,9 @@ Aspiring Fullstack Developer | Passionate about Java, TypeScript, and Modern Web
 #### 🔗 [ShortLink Generator](https://github.com/GoogleExpert228/short_url)
 A **URL shortener** built with **Spring Boot & React**.
 
+#### 📌 [GameShop](https://github.com/GoogleExpert228/GameShop)
+The e-shop created by players for players
+
 #### 📌 [Freelancer CRM](https://github.com/GoogleExpert228/CRM_freelance)
 A **mini CRM system** for freelancers to manage clients and orders.  
 
