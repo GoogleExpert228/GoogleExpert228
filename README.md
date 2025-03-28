@@ -47,6 +47,9 @@ A **URL shortener** built with **Spring Boot & React**.
 #### 📌 [GameShop](https://github.com/GoogleExpert228/GameShop)
 The e-shop created by players for players
 
+#### 📌 [HotelSystem](https://github.com/GoogleExpert228/hotel)
+Easy project than I made long time ago at university.
+
 #### 📌 [Freelancer CRM](https://github.com/GoogleExpert228/CRM_freelance)
 A **mini CRM system** for freelancers to manage clients and orders.  
 
